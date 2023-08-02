@@ -6,7 +6,7 @@ Online Examination System aims to provide a robust, user-friendly, and secure pl
 The system aims to address the challenges faced in traditional paper-based examinations and provide a user-friendly experience to both administrators and students.
 
 # Project Description
-Online Examination System is a Java-based application developed using Swing, AWT, and event handling. The main objective of this project is to create a comprehensive and efficient online platform for conducting examinations in a digital environment.
+Online Examination System is a Java-based Web-APP developed using Swing, AWT, and event handling. The main objective of this project is to create a comprehensive and efficient online platform for conducting examinations in a digital environment.
 
 * Login Interface: The login interface ensures that only registered candidates can access the examination. This helps maintain the security and authenticity of the exam.
 * Rules and Guidelines Interface: Before starting the exam, candidates are presented with a clear set of rules and guidelines that they must follow during the examination. This ensures that all candidates have a consistent understanding of the exam's rules and expectations.
