@@ -26,7 +26,7 @@ Online Examination System is a Java-based Web-APP developed using Swing, AWT, an
 # IDE Used :
 * IntelliJ
 
-# Steps followed While Deploying :
+# Steps followed While Deploying on Azure Service :
 1. Firstly I built the complete project using IntelliJ IDE,then tested it on the server.
  
 2. After that I have installed the git on my system.
