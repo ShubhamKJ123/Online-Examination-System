@@ -14,7 +14,7 @@ Online Examination System is a Java-based Web-APP developed using Swing, AWT, an
 * Timer and Auto-Submission: The system incorporates a timer that limits the duration for which candidates can attempt the exam. This ensures that candidates complete the exam within the specified time frame.
 
 # Azure Technologies used :
-1. Static Web Apps(for deployment of the website).
+1. Static Web Apps.
 2. Azure Storage Accounts.
 3. Container
 
